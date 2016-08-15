@@ -18,6 +18,7 @@ git push
 git pull
 git checkout -b branchName
 git checkout branchName
+git push origin branchName "to add to new branch"
 
 */
 
