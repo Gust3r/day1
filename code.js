@@ -20,3 +20,5 @@ git checkout -b branchName
 git checkout branchName
 
 */
+
+var random ="new branch edit"
